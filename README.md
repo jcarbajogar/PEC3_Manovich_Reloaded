@@ -1,7 +1,7 @@
 # PEC3_Manovich_Reloaded
 Autor: Jorge Carbajo García
 
-Fecha: 17/12/2023
+Fecha: 18/12/2023
 
 ## La hibridación con las gafas de Manovich
 
@@ -51,5 +51,7 @@ Observando todas estas características podemos decir que Evernote es un híbrid
 Con todo lo descrito también podemos decir que Evernote nos permite ver la evolución del software de la que nos habla Manovich, en la que muchas veces podemos ver simulaciones físicas, como serían el caso de las notas o los archivadores y carpetas en las que las guardamos, convertidos en algo electrónico, _donde en lugar de un gran número de materiales físicos, las simulaciones en software emplean un reducido número de estructuras de datos (Manovich, 2013)_. En conclusión, _la simulación en software sustituye toda una serie de materiales y herramientas utilizados para inscribir información (por ejemplo, haciendo marcas) sobre estos materiales por un nuevo medio híbrido definido a partir de una estructura de datos común. Debido a esta estructura común, ahora podemos emplear conjuntamente diversas técnicas que en el pasado eran exclusivas de un medio específico (Manovich, 2013)_, y que ahora como vemos en Evernote tenemos al alcance de la mano en una sola aplicación.
 
 ## Referencias y Bibliografía
-1. Ejemplo 1
-2. Ejemplo 2
+1. La mejor aplicación para tomar notas; organiza tus notas con [Internet]. Evernote. Disponible en: https://evernote.com/es-es
+2. Manovich L. Software takes command: Extending the language of new media. Bloomsbury Academic; 2013.
+3. Staticflickr.com. Disponible en: https://live.staticflickr.com/7374/9270789855_119736ff00_b.jpg
+4. The elder scrolls V: Skyrim VR en steam [Internet]. Steampowered.com. Disponible en: https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/?l=spanish
