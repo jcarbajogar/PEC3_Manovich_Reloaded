@@ -2,6 +2,9 @@
 Autor: Jorge Carbajo García
 
 Fecha: 17/12/2023
+
+![Lev Manovich!](/Lev_Manovich.jpg "Lev Manovich")
+
 ## La hibridación con las gafas de Manovich
 Lo primero que debemos aclarar es que Manovich cuando habla de híbridos no se refiere a medios en los que conviven distintos tipos de medios pero de forma contigua, porque eso ya se popularizó en los noventa, los “multimedios informáticos” o “multimedia”, donde _los contenidos de cada medio aparecen uno junto otro (Manovich, 2013)_, mientras que _en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno (Manovich, 2013)_.
 
